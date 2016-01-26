@@ -29,12 +29,14 @@ local spellIds = {
 	[18658] = "CC", -- Hibernate
 	[22570] = "CC", -- Maim
 	[27006] = "CC", -- Pounce
+	[16922] = CC, -- Starfire Stun
 	-- Hunter
 	[27753] = "CC", -- Freezing Trap
 	[19577] = "CC", -- Intimidation
 	[14327] = "CC", -- Scare Beast
 	[19503] = "CC", -- Scatter Shot
 	[27068] = "CC", -- Wyvern Sting; requires a hack to be removed later
+	[19410] = CC, -- Improved Concussive Shot
 	-- Mage
 	[10230] = "Root", -- Frost Nova
 	[12826] = "CC", -- Polymorph
@@ -66,6 +68,8 @@ local spellIds = {
 	[25274] = "CC", -- Intercept Stun
 	[5246] = "CC", -- Intimidating Shout
 	[676]   = "Disarm",	-- Disarm
+	[5530] = CC, -- Mace Stun Effect
+	[34510] = CC, -- Stormherald/Deep Thunder
 	-- other
 	[30217] = "CC", -- Adamantite Grenade
 	[30216] = "CC", -- Fel Iron Bomb
